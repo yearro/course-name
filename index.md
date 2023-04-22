@@ -8,3 +8,6 @@ numbers.sort((a, b) => a - b);
 
 console.log(numbers);
 ```
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
